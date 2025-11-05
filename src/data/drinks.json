@@ -1,0 +1,51 @@
+{
+  "កាហ្វេទឹកកក": [
+    {"name": "Ice Americano ​ អាមេរិកាណូ", "price": 1.25, "image": "/drinks/ice americano.jpg"},
+    {"name": "Ice Latte​ ឡាតាទឹកកក", "price": 1.50, "image": "/drinks/ice latte.jpg"},
+    {"name": "Ice Milk Coffee​ ទឹកដោះគោ", "price": 1.50, "image": "/drinks/ice milk coffee.jpg"},
+    {"name": "Ice Mocha​ មូកាទឹកកក", "price": 1.50, "image": "/drinks/ice mocha.jpg"},
+    {"name": "Ice Cappuccino​  កាពុឈីណូ", "price": 1.50, "image": "/drinks/ice cappuchino.jpg"}
+  ],
+    "កាហ្វេក្តៅ": [
+      {"name": "Hot Espresso​  អេស្ព្រេសូ", "price": 1.00, "image": "/drinks/hot expresso.jpg"},
+      {"name": "Hot Latte ​  ឡាតាក្តៅ", "price": 1.25, "image": "/drinks/hot latte.jpg"},
+      {"name": "Hot Americano​  អាមេរិកាណូក្តៅ", "price": 1.25, "image": "/drinks/hot americano.jpg"},
+      {"name": "Hot Milk     ​ ទឹកដោះគោក្តៅ", "price": 1.25, "image": "/drinks/hot milk.jpg"},
+      {"name": "Hot Cappuccino​ កាពុឈីណូក្តៅ", "price": 1.50, "image": "/drinks/hot cappuchino.jpg"},
+      {"name": "Hot Mocha​ មូកាក្តៅ", "price": 1.50, "image": "/drinks/hot mocha.jpg"},
+      {"name": "Hot Greentea​ ទឹកតែបៃតងក្តៅ", "price": 1.50, "image": "/drinks/hot greentea.jpg"},
+      {"name": "Hot Red Tea​ ទឹកតែក្រហមក្តៅ", "price": 1.50, "image": "/drinks/hot red tea.jpg"},
+      {"name": "Hot Chocolate​ សូកូឡាក្តៅ", "price": 1.50, "image": "/drinks/hot chocolate.jpg"}
+    ],
+    "ភេសជ្ជសូដា": [
+      {"name": "Strawberry Soda​ សូដាស្ត្របេរី", "price": 1.25, "image": "/drinks/straw berry soda.jpg"},
+      {"name": "Kiwi Soda​ សូដាគីវី", "price": 1.25, "image": "/drinks/kiwi soda.jpg"},
+      {"name": "Blue Hawaii Soda​ សូដាហាវ៉ៃខៀវ", "price": 1.25, "image": "/drinks/blue hawai soda.jpg"},
+      {"name": "Green Apple Soda​ សូដាប៉ោមបៃតង", "price": 1.25, "image": "/drinks/green apple soda.jpg"},
+      {"name": "Passion Soda​ សូដាផ្លែចេក", "price": 1.25, "image": "/drinks/passion soda.jpg"},
+      {"name": "Blue Berry Soda​ សូដាផ្លែប៊ូលឺប៊ឺរី", "price": 1.25, "image": "/drinks/blue berry soda.jpg"}
+    ],
+    "ភេសជ្ជតែទឹកកក": [
+      {"name": "Ice Lemon Greentea​ តែបៃតងក្រូចឆ្មារ", "price": 1.25, "image": "/drinks/ice lemon greentea.jpg"},
+      {"name": "Ice Lemon Redtea​ តែក្រហមក្រូចឆ្មារ", "price": 1.25, "image": "/drinks/ice lemon redtea.jpg"}
+    ],
+    "ភេសជ្ជពិសេស": [
+      {"name": "Ice Matcha Latte​ ឡាតាម៉ាចាទឹកកក", "price": 2.00, "image": "/drinks/ice matcha latte.jpg"},
+      {"name": "Ice Red Tea​ ទឹកតែក្រហមទឹកកក", "price": 1.50, "image": "/drinks/ice red tea.jpg"},
+      {"name": "Ice Chocolate​ សូកូឡាទឹកកក", "price": 1.50, "image": "/drinks/ice chocolate.jpg"},
+      {"name": "Ice Green Tea​ ទឹកតែបៃតងទឹកកក", "price": 1.50, "image": "/drinks/ice greentea.jpg"},
+      {"name": "Ice Passion Milk​ ទឹកដោះគោផ្លែចេកទឹកកក", "price": 1.50, "image": "/drinks/ice passion milk.jpg"}
+    ],
+    "ភេសជ្ជហ្វ្រាប់": [
+      {"name": "Mocha Frappe​ មូកាហ្វ្រាប់", "price": 2.00, "image": "/drinks/mocha frappe.jpg"},
+      {"name": "Chocolate Frappe​ សូកូឡាហ្វ្រាប់", "price": 2.00, "image": "/drinks/chocolate frappe.jpg"},
+      {"name": "Coffee Frappe​ កាហ្វេហ្វ្រាប់", "price": 2.00, "image": "/drinks/coffee frappe.jpg"},
+      {"name": "Cappuccino Frappe​ កាពុឈីណូហ្វ្រាប់", "price": 2.00, "image": "/drinks/cappuchino frappe.jpg"},
+      {"name": "Green Tea Frappe​ ទឹកតែបៃតងហ្វ្រាប់", "price": 2.00, "image": "/drinks/green tea frappe.jpg"},
+      {"name": "Avocado Frappe​ ផ្លែប៉ោមហ្វ្រាប់", "price": 2.00, "image": "/drinks/avocado frappe.jpg"},
+      {"name": "Red Tea Frappe​ ទឹកតែក្រហមហ្វ្រាប់", "price": 2.00, "image": "/drinks/read tea frappe.jpg"},
+      {"name": "Passion Frappe​ ផ្លែចេកហ្វ្រាប់", "price": 2.00, "image": "/drinks/passion frappe.jpg"},
+      {"name": "Strawberry Frappe​ ស្ត្របេរីហ្វ្រាប់", "price": 2.00, "image": "/drinks/straw berry frappe.jpg"},
+      {"name": "Blue Berry Frappe​ ផ្លែប៊ូលឺប៊ឺរីហ្វ្រាប់", "price": 2.00, "image": "/drinks/blue berry freappe.jpg"}
+    ]
+  } 
